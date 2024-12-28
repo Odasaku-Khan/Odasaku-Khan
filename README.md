@@ -19,8 +19,9 @@
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="PostgreSql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+ <br/>
 
 ---
 ### Connect with me:
-[![website](./img/telegram-svgrepo-com.svg)]((https://t.me/SwordmanOfAragato))
+[![website](./img/icons8-telegram.svg)]((https://t.me/SwordmanOfAragato))
 &nbsp;&nbsp;
