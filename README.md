@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Odasaku-Khan
-- 👀 I’m interested in gaming and gamedev, iOS development, frontend 
-- 📫 How to reach me @SwordmanOfAragato on telegram
+- 👋 Hi, I’m @Odasaku-Khan.
+- 👀 I’m interested in gaming and gamedev, iOS development, fullstack.
+- 📫 How to reach me @SwordmanOfAragato on telegram.
 - ⚡ Fun fact: I'm Fan of anime, manga, books, movies and traveling.
+- 🌱 I’m currently learning everything 🤣
+- Goal get second degree in Europe or Canada in 2027-28;
 - I can speak Kazakh, Turkish, Russian, and English, am learning Japanese, and want to learn French.
 ---
 
@@ -16,3 +18,5 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="PostgreSql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
