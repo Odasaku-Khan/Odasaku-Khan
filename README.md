@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Odasaku-Khan.
 - 👀 I’m interested in gaming and gamedev, iOS development, fullstack.
-- 📫 How to reach me @SwordmanOfAragato on telegram.
 - ⚡ Fun fact: I'm Fan of anime, manga, books, movies and traveling.
 - 🌱 I’m currently learning everything 🤣
 - Goal get second degree in Europe or Canada in 2027-28;
@@ -20,3 +19,9 @@
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="PostgreSql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+
+---
+### Connect with me:
+[![website](./img/twitter-dark.svg)]((https://t.me/SwordmanOfAragato))
+&nbsp;&nbsp;
+(https://t.me/SwordmanOfAragato)
