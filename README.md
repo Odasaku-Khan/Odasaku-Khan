@@ -23,5 +23,6 @@
 
 ---
 ### Connect with me:
-[![website](./img/icons8-telegram.svg)]((https://t.me/SwordmanOfAragato))
+[![Telegram](https://img.icons8.com/ios-filled/50/telegram.png)](https://t.me/SwordmanOfAragato)
 &nbsp;&nbsp;
+
