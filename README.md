@@ -22,6 +22,5 @@
 
 ---
 ### Connect with me:
-[![website](./img/twitter-dark.svg)]((https://t.me/SwordmanOfAragato))
+[![website](./img/telegram-svgrepo-com.svg)]((https://t.me/SwordmanOfAragato))
 &nbsp;&nbsp;
-(https://t.me/SwordmanOfAragato)
